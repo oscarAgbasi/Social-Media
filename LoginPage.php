@@ -1,6 +1,6 @@
 <?php
 /* Author: Agbasi oscar
-Student name: 000333303 */
+ */
 session_start(); 
 include "connect.php";
 if(isset($_SESSION['loginJ']) && $_SESSION['loginJ'] == true ){
