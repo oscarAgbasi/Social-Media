@@ -1,6 +1,6 @@
 <?php 
 /* Author: Agbasi oscar
-Student name: 000333303 */
+ */
 
 include "connect.php";
 $valid1 = "";
